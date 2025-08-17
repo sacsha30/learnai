@@ -13,5 +13,3 @@ print(float(num1) + int(num2))
 
 
 
-
-
