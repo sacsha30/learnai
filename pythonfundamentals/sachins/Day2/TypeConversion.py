@@ -6,7 +6,6 @@ num2 = 10
 num2 = float(num2)
 print(type(num2))
 
-
 num1 = "7.5"
 num2 = "10"
 
