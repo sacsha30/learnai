@@ -7,3 +7,4 @@ item = raffle.pop() #remove random element
 
 raffle = {"Rachel", "Monica", "Phoebe", "Joey", "Chandler", "Ross"}
 raffle.add("Gunther") #add an element to set
+print(raffle)
